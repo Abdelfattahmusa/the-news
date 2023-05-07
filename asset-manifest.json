@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abdelfattahmusa/the-news/static/css/main.b27855aa.css",
+    "main.js": "/Abdelfattahmusa/the-news/static/js/main.e3d1dd3f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Abdelfattahmusa/the-news/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Abdelfattahmusa/the-news/index.html",
+    "main.b27855aa.css.map": "/Abdelfattahmusa/the-news/static/css/main.b27855aa.css.map",
+    "main.e3d1dd3f.js.map": "/Abdelfattahmusa/the-news/static/js/main.e3d1dd3f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Abdelfattahmusa/the-news/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27855aa.css",
+    "static/js/main.e3d1dd3f.js"
+  ]
+}
